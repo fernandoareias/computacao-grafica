@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\computacao-grafica\\HelloWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E68FC5-81B1-49DC-819C-373CA3855AF2}|HelloWindows\\HelloWindows.vcxproj|C:\\dev\\computacao-grafica\\HelloWindows\\HelloWindows\\HelloMsg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72E68FC5-81B1-49DC-819C-373CA3855AF2}|HelloWindows\\HelloWindows.vcxproj|solutionrelative:HelloWindows\\HelloMsg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloMsg.cpp",
+              "DocumentMoniker": "C:\\dev\\computacao-grafica\\HelloWindows\\HelloWindows\\HelloMsg.cpp",
+              "RelativeDocumentMoniker": "HelloWindows\\HelloMsg.cpp",
+              "ToolTip": "C:\\dev\\computacao-grafica\\HelloWindows\\HelloWindows\\HelloMsg.cpp",
+              "RelativeToolTip": "HelloWindows\\HelloMsg.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T16:15:39.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

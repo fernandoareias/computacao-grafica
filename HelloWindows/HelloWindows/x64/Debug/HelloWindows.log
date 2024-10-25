@@ -1,0 +1,10 @@
+﻿  HelloMsg.cpp
+C:\dev\computacao-grafica\HelloWindows\HelloWindows\HelloMsg.cpp(5,9): warning C4005: '_In_': redefinição de macro
+      C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.42.34431\include\sal.h(305,9):
+      ver a definição anterior de "_In_"
+  
+C:\dev\computacao-grafica\HelloWindows\HelloWindows\HelloMsg.cpp(6,9): warning C4005: '_In_opt_': redefinição de macro
+      C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.42.34431\include\sal.h(306,9):
+      ver a definição anterior de "_In_opt_"
+  
+  HelloWindows.vcxproj -> C:\dev\computacao-grafica\HelloWindows\x64\Debug\HelloWindows.exe
